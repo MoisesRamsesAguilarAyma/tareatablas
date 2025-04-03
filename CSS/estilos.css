@@ -1,0 +1,59 @@
+h1{
+    font-size: 50px;
+}
+body{
+background-color: darkslategray;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+  text-align: left;
+}
+main{
+
+}
+article{
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: auto;
+    background-color: rgb(212, 226, 238);
+    margin: auto;
+  }
+  .primerafila{
+    font-size: 35px;
+    text-align: center;
+    background-color: black;
+    color: white;
+ }
+ .fondoimg{
+    background-color: white;
+}
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-size: 25px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+img{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+}
